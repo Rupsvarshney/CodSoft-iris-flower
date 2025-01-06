@@ -16,7 +16,7 @@ The dataset contains 150 records and includes the following features:
 4. **petal_width**: Width of the petal (in cm)  
 5. **species**: The flower species (Setosa, Versicolor, Virginica)  
 
-The dataset is sourced from the [Kaggle](https://www.kaggle.com/c/titanic).  
+The dataset is sourced from the [Kaggle](https://www.kaggle.com/datasets/arshid/iris-flower-dataset).  
 
 ## Technologies Used
 -  **Python**
