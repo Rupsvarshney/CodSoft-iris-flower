@@ -16,7 +16,7 @@ The dataset contains 150 records and includes the following features:
 4. **petal_width**: Width of the petal (in cm)  
 5. **species**: The flower species (Setosa, Versicolor, Virginica)  
 
-The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris).  
+The dataset is sourced from the [Kaggle](https://www.kaggle.com/c/titanic).  
 
 ## Technologies Used
 -  **Python**
@@ -29,7 +29,7 @@ The dataset is sourced from the [UCI Machine Learning Repository](https://archiv
 ## Project Highlights  
 
 ### 1. Data Preprocessing  
-- Handled missing values and encoded the categorical `species` column using `LabelEncoder`.  
+- Handled missing values and encoded the categorical species column using LabelEncoder.  
 - Exploratory Data Analysis (EDA) was conducted to visualize feature distributions and relationships.  
 
 ### 2. Data Visualization  
